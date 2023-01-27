@@ -1,6 +1,7 @@
 <details> 
-<summary>🚩 FLAG 코테반 2기</summary
-<div markdown="1">
+  <summary>🚩 FLAG 코테반 2기</summary>
+  <div markdown="1">
+  
 # 🚩 FLAG 코테반 2기
 ## 💪 목적
 * [2021 이코테 YOUTUBE](https://www.youtube.com/watch?v=m-9pAwq1o3w&list=PLRx0vPvlEmdAghTr5mXQxGpHjWqSz0dgC&index=2)를 보며 전체적인 알고리즘을 익히자!
